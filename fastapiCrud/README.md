@@ -93,3 +93,7 @@ Start the server
 ```bash
   uvicorn main:app --reload
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 33b3ffd75ddb6b59e10815fac9285225e99470f6
